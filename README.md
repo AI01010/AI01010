@@ -1,7 +1,7 @@
 <!-- Profile README for Ashraful Islam -->
 
 <div align="center">
-  <h1>👋 Hi, I'm <span style="color:#0f62fe">Ashraful Islam</span></h1>
+  <h1>👋 Greetings, I'm <span style="color:#0f62fe">Ashraful Islam</span></h1>
   <p><em>Software Developer · Intern @ Gainwell Technologies · Healthcare IT · Lifelong Learner</em></p>
 
   <img src="https://github-readme-stats.vercel.app/api?username=AshrafulIslam25&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
