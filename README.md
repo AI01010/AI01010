@@ -10,11 +10,10 @@
 
 > As a software developer in healthcare IT, I aspire to utilize my talents to benefit society through my leadership, service, and innovative IT solutions.
 
+---
 - [LinkedIn](https://www.linkedin.com/in/ashraful-islam-cs/)
 - [Personal GitHub](https://github.com/AshrafulIslam25)
 
----
-*New to Gainwell Technologies, excited to contribute and grow!*
 <!--
 **AshrafulIslam25/AshrafulIslam25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
