@@ -50,19 +50,19 @@
 ![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
----
+<!---
 
 ### 📈 GitHub Activity
 
-<!-- GitHub Contribution Graph - ->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AI01010&theme=github-compact" width="100%"-->
+<!-- GitHub Contribution Graph -->
+<!-- img src="https://github-readme-activity-graph.vercel.app/graph?username=AI01010&theme=github-compact" width="100%"-->
 
 ---
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-cs/)
-[![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25)
+<!-- [![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25) -->
 
 ---
 
