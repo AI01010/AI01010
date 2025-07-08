@@ -12,7 +12,7 @@
 
 ### 🚀 About Me
 
-- 💻 **Software Developer Intern** @ **Gainwell Technologies** (C#/.NET for Texas State Pharmacy Benefits Platform)
+- 💻 **Software Developer Intern** @ **Gainwell Technologies**
 - 🧠 **Passionate about AI, full-stack apps, and improving healthcare through technology**
 - 💡 I enjoy **problem-solving, clean design, and working across the full stack**
 - 🌍 Based in **USA** | Open to **remote/global collaboration**
@@ -49,8 +49,9 @@
 #### ⚙️ Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![Azure DevOps](https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=for-the-badge&logo=microsoft-azure)
 ![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 
