@@ -33,8 +33,9 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" /> 
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> 
-  <img src="https://img.shields.io/badge/Prolog-E61F23?style=for-the-badge" alt="Prolog" /> </p>
+   </p>
 <!--
+<img src="https://img.shields.io/badge/Prolog-E61F23?style=for-the-badge" alt="Prolog" />
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5C2D91?style=for-the-badge&logo=csharp&logoColor=white)
