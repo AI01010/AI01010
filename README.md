@@ -3,7 +3,7 @@
 <div align="center">
   <h1>👋 Greetings, I'm <span style="color:#0f62fe">Ashraful Islam</span></h1>
   <p><em>Software Developer · Intern @ Gainwell Technologies · Healthcare IT · AI/ML · Lifelong Learner</em></p>
-
+ 
   <!--img src="https://github-readme-stats.vercel.app/api?username=AI01010&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
   <img src="https://streak-stats.demolab.com?user=AI01010&theme=radical" alt="GitHub Streak" width="45%"/-->
 </div>
@@ -63,8 +63,8 @@
 ![Visual Studio](https://img.shields.io/badge/VS-5C2D91?style=for-the-badge&logo=visual-studio-code)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0089D6?style=for-the-badge&logo=microsoft-azure)
-![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge)
 
 <!---
 
