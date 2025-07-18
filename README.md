@@ -4,8 +4,8 @@
   <h1>👋 Greetings, I'm <span style="color:#0f62fe">Ashraful Islam</span></h1>
   <p><em>Software Developer · Intern @ Gainwell Technologies · Healthcare IT · AI/ML · Lifelong Learner</em></p>
  
-  <img src="https://github-readme-stats.vercel.app/api?username=AI01010&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
-  <img src="https://streak-stats.demolab.com?user=AI01010&theme=radical" alt="GitHub Streak" width="45%"/>
+  <!--img src="https://github-readme-stats.vercel.app/api?username=AI01010&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
+  <img src="https://streak-stats.demolab.com?user=AI01010&theme=radical" alt="GitHub Streak" width="45%"/-->
 </div>
 
 ---
@@ -66,12 +66,12 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
 ![WSL](https://img.shields.io/badge/WSL-008080?style=for-the-badge)
 
---
+<!--
 
 ### 📈 GitHub Activity
 
 GitHub Contribution Graph
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AI01010&theme=github-compact" width="100%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AI01010&theme=github-compact" width="100%"-->
 
 ---
 
