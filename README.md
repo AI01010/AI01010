@@ -77,7 +77,7 @@ GitHub Contribution Graph
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-cs/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-cs/)
 [![Devpost](https://img.shields.io/badge/Devpost-013D57.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/AI01010)
 <!-- [![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25) -->
 
