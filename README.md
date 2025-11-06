@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1>👋 Greetings, I'm <span style="color:#0f62fe">Ashraful Islam</span></h1>
-  <p><em>Software Developer · Intern @ Gainwell Technologies · Healthcare IT · AI/ML · Lifelong Learner</em></p>
+  <p><em>Software Developer · AI/ML · Prev SWE Intern @ Gainwell Technologies · Lifelong Learner</em></p>
  
   <!--img src="https://github-readme-stats.vercel.app/api?username=AI01010&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
   <img src="https://streak-stats.demolab.com?user=AI01010&theme=radical" alt="GitHub Streak" width="45%"/-->
@@ -12,10 +12,9 @@
 
 ### 🚀 About Me
 
-- 💻 **Software Developer Intern** @ **Gainwell Technologies**
-- 🧠 **Passionate about AI, full-stack apps, and improving healthcare through technology**
+- 🧠 **Passionate about AI, full-stack apps, and improving society and healthcare through technology**
 - 💡 I enjoy **problem-solving, clean design, and working across the full stack**
-- 🌍 Based in **USA** | Open to **remote/global collaboration**
+- 💻 **Previously: Software Developer Intern** @ **Gainwell Technologies**
 
 ---
 
