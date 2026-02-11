@@ -78,7 +78,8 @@
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi)
 ![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel)
 ![PuTTY](https://img.shields.io/badge/PuTTY-000000?style=for-the-badge)
-![Cloud APIs](https://img.shields.io/badge/AI%20%26%20Cloud_APIs-4285F4?style=for-the-badge&logo=cloud)
+![Cloud APIs](https://img.shields.io/badge/AI%20%26%20Cloud_APIs-013D57?style=for-the-badge&logo=icloud&logoColor=white)
+
 
 
 <!--
@@ -94,8 +95,11 @@ GitHub Contribution Graph
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-cs/)
 [![Devpost](https://img.shields.io/badge/Devpost-013D57.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/AI01010)
-<!-- [![Portfolio](https://img.shields.io/badge/GitHub_Portfolio-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/)
+[![Portfolio](https://img.shields.io/badge/GWT_GitHub-00EEAE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25) 
 
+<!--[![Portfolio](https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/) -->
 ---
 
 > 🧠 _"I aspire to utilize my talents to benefit society through my excellent leadership, service, and innovative IT solutions."_
