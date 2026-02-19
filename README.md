@@ -1,9 +1,11 @@
 <!-- Profile README for Ashraful Islam -->
 
 <div align="center">
-  <h1>👋 Greetings, I'm <span style="color:#0f62fe">
-    <a href="https://ai01010.github.io/Ashraful_Islam/" target="_blank">Ashraful Islam</a>
-  </span></h1>
+  <h1>👋 Greetings, I'm 
+    <a href="https://ai01010.github.io/Ashraful_Islam/" target="_blank" style="color:#0f62fe; text-decoration:none;">
+      Ashraful Islam
+    </a>
+  </h1>
   <p><em>Software Developer · AI/ML · Prev SWE Intern @ Gainwell Technologies · Lifelong Learner</em></p>
  
   <!--img src="https://github-readme-stats.vercel.app/api?username=AI01010&show_icons=true&theme=radical" alt="Ashraful's GitHub stats" width="45%" />
