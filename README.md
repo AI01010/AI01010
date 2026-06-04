@@ -19,7 +19,7 @@
 <!-- 🎓 **M.s.CS (Intelligent Systems) + B.s.CS** @ **UT Dallas**-->
 - 🧠 **Passionate about AI, full-stack apps, and improving society and healthcare through technology**
 - 💡 I enjoy **problem-solving, clean design, and working across the full stack**
-- 💻 **Previously: Software Developer Intern** @ **Gainwell Technologies** · **SWE/AI Fellow** @ **Headstarter AI**
+- 💻 **AI Engineering Intern** @ **Gainwell Technologies** · **Previously: Software Developer Intern** @ **Gainwell Technologies** 
 - 🏆 1st Place: **HackReason** (Autis(CASP)) · **Khidmah CS Consultancy** (Client Project) · **Gainwell Innovation Competition**
 
 ---
