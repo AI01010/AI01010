@@ -132,8 +132,8 @@ GitHub Contribution Graph
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashraful-islam-cs/)
 [![Devpost](https://img.shields.io/badge/Devpost-013D57.svg?style=for-the-badge&logo=devpost&logoColor=white)](https://devpost.com/AI01010)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/)
-[![GWT GitHub 25](https://img.shields.io/badge/GWT_GitHub-00EEAE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25)
-[![GWT GitHub 26](https://img.shields.io/badge/GWT_GitHub-00EEAE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslamGWT)
+[![GWT GitHub 25](https://img.shields.io/badge/GWT_GitHub_25-00EEAE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslam25)
+[![GWT GitHub 26](https://img.shields.io/badge/GWT_GitHub_26-00EEAE?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AshrafulIslamGWT)
 
 <!--[![Portfolio](https://img.shields.io/badge/Website-1E90FF?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=icloud&logoColor=white)](https://ai01010.github.io/Ashraful_Islam/) -->
