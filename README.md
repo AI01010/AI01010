@@ -20,7 +20,7 @@
 - 🧠 **Passionate about AI, full-stack apps, and improving society and healthcare through technology**
 - 💡 I enjoy **problem-solving, clean design, and working across the full stack**
 - 💻 **AI Engineering Intern** @ **Gainwell Technologies** · **Previously: Software Developer Intern** @ **Gainwell Technologies** 
-- 🏆 1st Place: **HackReason** (Autis(CASP)) · **Khidmah CS Consultancy** (Client Project) · **Gainwell Innovation Competition**
+- 🏆 1st Place: **HackReason** (Autis(CASP)) · **Khidmah CS Consultancy** (Client Project) · **2x Gainwell Innovation Competition**
 
 ---
 
